@@ -80,6 +80,3 @@ Files:
 The following two files have been exported from VOSviewer after the graph creation and can be used to re-render the graph:
 * [Map file](./data/2_networkMap/map-fractionalCount-37strength-1resol-31012025.txt)
 * [Network file](./data/2_networkMap/network-fractionalCount-37strength-1resol-31012025.txt)
-
-## 4. Closure
-We hope this repository has been helpful. In case of 
