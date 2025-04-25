@@ -1,0 +1,1 @@
+TITLE-ABS-KEY ( industr* OR iiot ) AND ( TITLE-ABS-KEY ( "internet of things" OR iot ) ) AND ( TITLE-ABS-KEY ( cybersecurity OR security ) ) AND ( PUBYEAR > 2021 ) AND ( PUBYEAR < 2025 ) AND ( TITLE ( review OR survey OR map* OR bibliometric OR analysis ) ) AND ( TITLE ( iiot OR cybersecurity ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )

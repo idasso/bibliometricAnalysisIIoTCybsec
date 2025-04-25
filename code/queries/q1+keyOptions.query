@@ -1,0 +1,11 @@
+TITLE-ABS-KEY ( industr* OR iiot ) AND ( TITLE-ABS-KEY ( "internet of things" OR iot ) ) AND ( TITLE-ABS-KEY ( cybersecurity OR security ) ) AND ( PUBYEAR > 2013 ) AND ( PUBYEAR < 2025 ) AND ( KEY ( block-chain OR blockchain ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
+
+TITLE-ABS-KEY ( industr* OR iiot ) AND ( TITLE-ABS-KEY ( "internet of things" OR iot ) ) AND ( TITLE-ABS-KEY ( cybersecurity OR security ) ) AND ( PUBYEAR > 2013 ) AND ( PUBYEAR < 2025 ) AND ( KEY ( cryptograph* ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
+
+TITLE-ABS-KEY ( industr* OR iiot ) AND ( TITLE-ABS-KEY ( "internet of things" OR iot ) ) AND ( TITLE-ABS-KEY ( cybersecurity OR security ) ) AND ( PUBYEAR > 2013 ) AND ( PUBYEAR < 2025 ) AND ( KEY ( authentication ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
+
+TITLE-ABS-KEY ( industr* OR iiot ) AND ( TITLE-ABS-KEY ( "internet of things" OR iot ) ) AND ( TITLE-ABS-KEY ( cybersecurity OR security ) ) AND ( PUBYEAR > 2013 ) AND ( PUBYEAR < 2025 ) AND ( KEY ( machine W/0 learning ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
+
+TITLE-ABS-KEY ( industr* OR iiot ) AND ( TITLE-ABS-KEY ( "internet of things" OR iot ) ) AND ( TITLE-ABS-KEY ( cybersecurity OR security ) ) AND ( PUBYEAR > 2013 ) AND ( PUBYEAR < 2025 ) AND ( KEY ( intrusion W/0 detection ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
+
+TITLE-ABS-KEY ( industr* OR iiot ) AND ( TITLE-ABS-KEY ( "internet of things" OR iot ) ) AND ( TITLE-ABS-KEY ( cybersecurity OR security ) ) AND ( PUBYEAR > 2013 ) AND ( PUBYEAR < 2025 ) AND ( KEY ( embedded w/0 system* ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) )
