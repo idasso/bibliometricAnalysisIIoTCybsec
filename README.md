@@ -3,10 +3,10 @@
 ### Companion Paper
 This source code and data goes with the peer-reviewed paper:
 ```
-Ignacio J. Dasso, Sébastien Maudet, Renzo E. Navas, Guillaume Andrieux.
-"Industrial IoT cybersecurity: a bibliometric analysis"
-In Proceedings of the 10th International Conference on Smart and Sustainable Technologies (SpliTech)
-Split and Bol, Croatia, June 16-20, 2025.
+Ignacio J. Dasso, Sébastien Maudet, Renzo E. Navas, Guillaume Andrieux,
+"Industrial IoT cybersecurity: a bibliometric analysis,"
+in Proceedings of the 10th International Conference on Smart and Sustainable Technologies (SpliTech),
+June 2025.
 ```
 **Please, if you use or are inspired by this source code, cite our aforementioned article.**
 
